@@ -30,8 +30,8 @@ I have 4+ years of experience building enterprise applications using Java, Sprin
 
 - ![](https://komarev.com/ghpvc/?username=runvalcode)
 
-- <a href="https://buymeacoffee.com/YOURNAME">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200">
-</a>
+# - <a href="https://buymeacoffee.com/YOURNAME">
+#  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200">
+#</a>
 
 # - ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=runvalcode&show_icons=true)
