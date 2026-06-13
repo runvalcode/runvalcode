@@ -28,5 +28,5 @@ I have 4+ years of experience building enterprise applications using Java, Sprin
 
 - LinkedIn: https://www.linkedin.com/in/runval-borse/
 
-- ![](https://komarev.com/ghpvc/?username=runvalcode)
+# - ![](https://komarev.com/ghpvc/?username=runvalcode)
 # - ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=runvalcode&show_icons=true)
