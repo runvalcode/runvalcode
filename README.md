@@ -1,6 +1,6 @@
 # Hi 👋 I'm Runval Borse
 
-## Java Backend Developer
+## Java Full Stack Developer
 
 I have 4+ years of experience building enterprise applications using Java, Spring Boot, Microservices, REST APIs and SQL databases.
 
