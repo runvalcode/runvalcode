@@ -21,9 +21,9 @@ I have 4+ years of experience building enterprise applications using Java, Sprin
 ## 📚 Currently Learning
 
 - System Design
-- Kubernetes
 - AWS
 - Low Level Design
+- Kafka
 
 ## 📫 Connect With Me
 
