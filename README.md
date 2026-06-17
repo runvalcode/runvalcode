@@ -27,6 +27,6 @@ I have 4+ years of experience building enterprise applications using Java, Sprin
 
 ## 📫 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/runval-borse/
+- LinkedIn:https://www.linkedin.com/in/runval-borse/
 
 # - ![](https://komarev.com/ghpvc/?username=runvalcode)
